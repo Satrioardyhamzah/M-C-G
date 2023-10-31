@@ -1,0 +1,13 @@
+const String tLogin = "Login Google";
+const String tSignup = "Login Facebook";
+const String tOnBoardingTitle1 = "M-C&G\n";
+const String tOnBoardingTitle2 = "Kami senang kalian bergabung!";
+const String tOnBoardingTitle3 = "Ayo terhubung dengan teman-teman dan guru kamu!";
+const String tOnBoardingSubTitle1 = "MC&G adalah sebuah aplikasi chat untuk memudahkan konsultasi pada MAN 14 Jakarta";
+const String tOnBoardingSubTitle2 = "\nAyo chat dan konsultasi bersama teman dan guru kamu!";
+const String tOnBoardingSubTitle3 = "\nAyo Mulai!!\n";
+const String tOnBoardingCounter1 = "1/3";
+const String tOnBoardingCounter2 = "2/3";
+const String tOnBoardingCounter3 = "3/3";
+const String tWelcomeTitle = "M-C&G\n";
+const String tWelcomeSubTitle = "Ayo Mulai!!!";

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M-CG</string>
+    <string name="facebook_app_id">1808358152882348</string>
+    <string name="facebook_client_token">45a79bdab6827bf1a8edb50b33e44d0e</string>
+    <string name="fb_login_protocol_scheme">fb1808358152882348</string>
+    <string name="default_notification_channel_id">M-CG</string>
+
+</resources>

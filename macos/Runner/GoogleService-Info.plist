@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBbb9s4Nk1iJ-Pxvbhp2klxTXb_Z4YizjI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>657420417272</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebasechat</string>
+	<key>PROJECT_ID</key>
+	<string>fir-chatt-968d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-chatt-968d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:657420417272:ios:79bdf2ff592048f60ee30d</string>
+</dict>
+</plist>
